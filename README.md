@@ -1,3 +1,6 @@
 # cart360
+  Mode Video
+  https://vimeo.com/634277906
 
-This will contain the weekly etudes for CART 360
+  Pitches Video
+  https://vimeo.com/634280096
